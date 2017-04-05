@@ -82,6 +82,29 @@ modo normal: z=
 modo inserção: ctrl+x s
 ```
 
+# Plugins
+
+## colorschemas
+```VimL
+:colo <schema>
+```
+
+## procurando coisas
+### rking/ag.vim
+```VimL
+:Ag item
+```
+
+## movendo em pulinhos
+### camelcasemotion
+```VimL
+<mapleader> <w, b, e>
+```
+
+## expandindo as coisas (zen coding)
+### mattn/emmet-vim.git
+
+
 ## Mais Informações:
 
 * https://vim-adventures.com/
