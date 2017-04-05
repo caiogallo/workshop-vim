@@ -84,25 +84,25 @@ modo inserção: ctrl+x s
 
 # Plugins
 
-## colorschemas
+*colorschemas*
 ```VimL
 :colo <schema>
 ```
 
-## procurando coisas
-### rking/ag.vim
+*procurando coisas*  
+plugin: rking/ag.vim
 ```VimL
 :Ag item
 ```
 
-## movendo em pulinhos
-### camelcasemotion
+*movendo em pulinhos*  
+plugin: camelcasemotion
 ```VimL
 <mapleader> <w, b, e>
 ```
 
-## expandindo as coisas (zen coding)
-### mattn/emmet-vim.git
+*expandindo as coisas (zen coding)*  
+plugin: mattn/emmet-vim.git
 
 
 ## Mais Informações:
